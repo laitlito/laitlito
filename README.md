@@ -45,9 +45,6 @@ Please feel free to see [my portfolio](yet_to_be_done) to discover all my projec
 
 Don't hesitate to browse through my repos, contact me for work collaborations or just simply to chat on various subject.
 
-![Image personnelle ou logo représentatif](lien_vers_image)
-
-
 <a href="https://github.com/laitlito">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laitlito&count_private=true&show_icons=true&theme=calm" />
 </a>
@@ -57,6 +54,9 @@ Don't hesitate to browse through my repos, contact me for work collaborations or
 
 
 <div style="display: flex; gap: 10px;">
+   
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flaitlito&label=Visitors&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flaitlito)
+
 [![Follow](https://img.shields.io/github/followers/laitlito?label=Follow&style=social)](https://github.com/laitlito)
+
 </div>
