@@ -52,9 +52,8 @@ Don't hesitate to browse through my repos, contact me for work collaborations or
   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laitlito&layout=compact&langs_count=8&theme=calm&" />
 </a>
 
-
 <div style="display: flex; gap: 10px;">
-   
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flaitlito&label=Visitors&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flaitlito)
 
 [![Follow](https://img.shields.io/github/followers/laitlito?label=Follow&style=social)](https://github.com/laitlito)
