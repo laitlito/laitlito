@@ -1,14 +1,14 @@
 # Welcome to my GitHub page ! 👋
 
-Hi, I'm Lélio, currently in fourth year of engineering school at [Polytech Nice Sophia Antipolis](https://polytech.univ-cotedazur.fr/), in the [applied mathematics and modeling specialisation](https://univ-cotedazur.fr/formation/offre-de-formation/ingenieur-mathematiques-appliquees-et-modelisation). I mainly like to work on real-life problems such as maximising or minimising things to make other work.
+Hi, I'm Lélio, currently in my fourth year at [Polytech Nice Sophia Antipolis](https://polytech.univ-cotedazur.fr/), majoring in [applied mathematics and modeling specialisation](https://univ-cotedazur.fr/formation/offre-de-formation/ingenieur-mathematiques-appliquees-et-modelisation). I mainly like to work on real-life problems such as maximising or minimising things to make other work.
 
 
 ## About me
 
-- 🚀 Currently in 4th year of engineering school.
+- 🚀 Currently in the 4th year of engineering school.
 - 💡 I like to learn about new methods to solve complex problems.
 - 🎹 Average classical music enjoyer (🗿), I'm most dedicated to Chopin and Liszt. I've been playing for 15 years now.
-- 🏅 I have been doing sports of my life. Here's the 5 sports I like doing best : swimming, badminton, football, tennis and volleyball
+- 🏅 I have been into sports my whole life. Here's the 5 sports I like doing best : swimming, badminton, football, tennis and volleyball
 - 🎮 I really enjoy highly competitive video games and niche ones
    - Reached highest rank in Fortnite (Chapter 5 season 1)
    - Top 500 best players osu! in France
@@ -25,8 +25,8 @@ Hi, I'm Lélio, currently in fourth year of engineering school at [Polytech Nice
    - C/C++
    - SQL
    - Matlab
-- 🛠️ Technologies that I'm interested in : High end computer components, mathematical research, optimisation, PDEs and ODEs.
-- 🐧 Current setup : I am currently running Ubuntu 22.04.3 LTS, and about to become a (perhaps a little too much) pride Arch Linux user.
+- 🛠️ Technologies that interest me : High end computer components, mathematical research, optimisation, PDEs and ODEs.
+- 🐧 Current setup : I am currently running Ubuntu 22.04.3 LTS, and about to become a (perhaps a little too much) proud Arch Linux user.
 
 ## Most proud-of projects
 
@@ -43,7 +43,7 @@ Please feel free to see [my portfolio](yet_to_be_done) to discover all my projec
 - 📧 [Mail](mailto:astruc.lelio@protonmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lélio-astruc/)
 
-Don't hesitate to browse through my repos, contact me for work collaborations or just simply to chat on various subject.
+Don't hesitate to browse through my repos, contact me for work collaborations, or just simply to chat on various subject.
 
 <a href="https://github.com/laitlito">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laitlito&count_private=true&show_icons=true&theme=calm" />
