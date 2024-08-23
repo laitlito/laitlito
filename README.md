@@ -48,7 +48,7 @@ Don't hesitate to browse through my repos, contact me for work collaborations, o
 <a href="https://github.com/laitlito">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=laitlito&count_private=true&show_icons=true&theme=calm" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/laitlito">
   <img height=170 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laitlito&layout=compact&langs_count=8&theme=calm&" />
 </a>
 
