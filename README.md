@@ -7,7 +7,7 @@ Hi, I'm Lélio, currently in my fourth year at [Polytech Nice Sophia Antipolis](
 
 - 🚀 Currently in the 4th year of engineering school.
 - 💡 I like to learn about new methods to solve complex problems.
-- 🎹 Average classical music enjoyer (🗿), I'm most dedicated to Chopin and Liszt. I've been playing for 15 years now.
+- 🎹 Classical music enjoyer (🗿), I'm most dedicated to Chopin and Liszt. I've been playing for 15 years now.
 - 🏅 I have been into sports my whole life. Here's the 5 sports I like doing best : swimming, badminton, football, tennis and volleyball
 - 🎮 I really enjoy highly competitive video games and niche ones
    - Reached highest rank in Fortnite (Chapter 5 season 1)
@@ -26,7 +26,7 @@ Hi, I'm Lélio, currently in my fourth year at [Polytech Nice Sophia Antipolis](
    - SQL
    - Matlab
 - 🛠️ Technologies that interest me : High end computer components, mathematical research, optimisation, PDEs and ODEs.
-- 🐧 Current setup : I am currently running Ubuntu 22.04.3 LTS, and about to become a (perhaps a little too much) proud Arch Linux user.
+- 🐧 Current setup : I am currently running Ubuntu 22.04.3 LTS.
 
 ## Most proud-of projects
 
