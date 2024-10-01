@@ -1,13 +1,13 @@
 # Welcome to my GitHub page ! 👋
 
-Hi, I'm Lélio, currently in my fourth year at [Polytech Nice Sophia Antipolis](https://polytech.univ-cotedazur.fr/), majoring in [applied mathematics and modeling specialisation](https://univ-cotedazur.fr/formation/offre-de-formation/ingenieur-mathematiques-appliquees-et-modelisation). I mainly like to work on real-life problems such as maximising or minimising things to make other work.
+Hi, I'm Lélio, currently in my fifth and last year at [Polytech Nice Sophia Antipolis](https://polytech.univ-cotedazur.fr/), majoring in [applied mathematics and modeling specialisation](https://univ-cotedazur.fr/formation/offre-de-formation/ingenieur-mathematiques-appliquees-et-modelisation), INUM (Numerical engineering). I mainly like to work on real-life problems such as maximising or minimising things to make other work.
 
 
 ## About me
 
-- 🚀 Currently in the 4th year of engineering school.
+- 🚀 Currently in the 5th year of engineering school.
 - 💡 I like to learn about new methods to solve complex problems.
-- 🎹 Classical music enjoyer (🗿), I'm most dedicated to Chopin and Liszt. I've been playing for 15 years now.
+- 🎹 Classical music enjoyer, I'm most dedicated to Chopin and Liszt. I've been playing for 15 years now.
 - 🏅 I have been into sports my whole life. Here's the 5 sports I like doing best : swimming, badminton, football, tennis and volleyball
 - 🎮 I really enjoy highly competitive video games and niche ones
    - Reached highest rank in Fortnite (Chapter 5 season 1)
